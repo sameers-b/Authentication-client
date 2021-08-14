@@ -1,0 +1,18 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+.reset-container{
+   border: 1px solid teal;
+   width: 400px;
+   height:200px;
+   margin: 50px auto;
+   padding: 50px;
+}
+.otp-container{
+   border: 1px solid teal;
+   width: 400px;
+   height:200px;
+   margin: 50px auto;
+   padding: 50px;
+}

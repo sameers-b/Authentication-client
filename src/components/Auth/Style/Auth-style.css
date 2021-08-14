@@ -1,0 +1,45 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+.auth-container{
+   border: 2px solid cadetblue;
+   height: 300px;
+   width: 500px;
+   margin: 100px auto;
+   border-radius: 20px 0;
+}
+.google-auth-btn{
+   /* border: 3px dotted red; */
+   box-sizing: border-box;
+   height:65px;
+   width: 300px;
+   margin: 40px auto;
+   text-align: center;
+   border-radius:0 20px;
+   background-color:red;
+   padding-top:10px;
+}
+.auth-btn{
+   /* border: 1px solid teal; */
+   box-sizing: border-box;
+   height:60px;
+   width: 200px;
+   display:inline-block;
+   text-align: center;
+   margin-left: 30px;
+   background-color: teal;
+   font-size: 23px;
+   padding-top:12px;
+}
+.signup-btn{
+   float: left;
+   border-radius:0 20px;
+}
+.login-btn{
+   border-color: teal;
+   border-radius:20px 0;
+}
+.auth-btn span{
+   color: white;
+}
